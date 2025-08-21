@@ -1,1 +1,1 @@
-# src
+Troquei a função Buscar Flashcard por baralho, para a função Buscar flashcard por nome do baralho, por conta que essa função estava fazendo a mesma coisa que a função Listar flashcard pelo id do baralho, então para divercificar o código eu o modifiquei.
